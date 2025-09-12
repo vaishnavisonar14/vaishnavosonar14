@@ -19,7 +19,6 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -35,15 +34,6 @@
 
 ---
 
-## 🚀 Projects I'm Proud Of  
-
-- **Python-Tasks** – A collection of Jupyter Notebook tasks for Python fundamentals.  
-- **PPT-on-loops** – An interactive guide to Python loops with examples and syntax.  
-- **Python-Notes** – My personal notes on Python and data analysis.  
-- **Employee_Payroll_Management.MsAccess** – A payroll management system built in MS Access.  
-- **Travel-Triangle-EDA** – Exploratory Data Analysis project on travel packages and insights.  
-
----
 
 ✨ *Thanks for visiting my profile! Let’s connect and grow together.*  
 # Vaishnavi-Sonar
