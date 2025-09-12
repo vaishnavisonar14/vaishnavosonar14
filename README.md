@@ -28,8 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavisonar14&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavisonar14&layout=compact&theme=radical)  
 
 ---
