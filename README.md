@@ -37,5 +37,4 @@
 ---
 
 
-✨ *Thanks for visiting my profile! Let’s connect and grow together.*  
 
